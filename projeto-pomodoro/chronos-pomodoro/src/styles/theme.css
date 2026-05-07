@@ -115,8 +115,9 @@
   --gray-900: #e6e9f0;
   /* Fundo principal claro */
 
+  
   /* 📝 Texto no modo claro */
-  --text-default: #0a0f1a;
+  --text-default: #000000;
   /* Texto principal no modo claro */
   --text-muted: #272f43;
   /* Texto menos importante */
