@@ -32,15 +32,15 @@
   /* Bordas e separadores */
   --gray-800: #181f2e;
   /* Fundo de cartões e áreas destacadas */
-  --gray-900: #0a0f1a;
+  --gray-900: #000000;
   /* Fundo principal do site */
 
   /* 🌿 Cores Primárias (cores fixas - NÃO mudam com o tema) */
-  --primary-light: #4de7b7;
+  --primary-light: #c90868;
   /* Usado para realces suaves */
-  --primary: #0da170;
+  --primary: #c90868;
   /* Cor principal do projeto */
-  --primary-dark: #065f46;
+  --primary-dark: #000000;
   /* Usado em hovers e elementos ativos */
 
   /* 🔗 Links */
@@ -60,7 +60,7 @@
   /* Indica informação (azul) */
 
   /* 🎨 Texto sobre fundos coloridos (para garantir contraste) */
-  --text-over-primary: #0a0f1a;
+  --text-over-primary: #ffffff;
   /* Texto sobre fundo primário */
   --text-over-primary-dark: #e6e9f0;
   /* Texto sobre variação escura */
