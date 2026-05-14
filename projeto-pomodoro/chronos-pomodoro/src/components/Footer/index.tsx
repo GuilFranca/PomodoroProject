@@ -10,6 +10,7 @@ export function Footer() {
       <RouterLink href='/'>
         Chronos Pomodoro &copy; {new Date().getFullYear()} - Feito com 💚
       </RouterLink>
+
     </footer>
   );
 }
